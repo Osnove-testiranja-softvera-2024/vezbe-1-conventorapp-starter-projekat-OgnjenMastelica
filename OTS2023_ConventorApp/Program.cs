@@ -11,6 +11,8 @@ namespace OTS2023_ConventorApp
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// 
+        ///test komit!!!
         [STAThread]
         static void Main()
         {
